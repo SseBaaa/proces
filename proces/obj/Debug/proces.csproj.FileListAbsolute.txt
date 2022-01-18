@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\proces\proces\obj\Debug\proces.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\proces\proces\obj\Debug\proces.Form1.resources
+C:\Users\sebas\source\repos\proces\proces\obj\Debug\proces.Properties.Resources.resources
+C:\Users\sebas\source\repos\proces\proces\obj\Debug\proces.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\proces\proces\obj\Debug\proces.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\proces\proces\bin\Debug\proces.exe.config
+C:\Users\sebas\source\repos\proces\proces\bin\Debug\proces.exe
+C:\Users\sebas\source\repos\proces\proces\bin\Debug\proces.pdb
+C:\Users\sebas\source\repos\proces\proces\obj\Debug\proces.exe
+C:\Users\sebas\source\repos\proces\proces\obj\Debug\proces.pdb
